@@ -3,7 +3,7 @@
 - ⚒️ I've worked as a Frontend Developer Freelancer. 
 - 🌱 I’m currently learning React...
 - 📫 How to reach me: 
--         Whatsapp: +977 9765617438
+-         Whatsapp: +91 9383240605
 -         Fb: Pradeep Magar
 - ⚡ Fun fact: Life is all about Constant Learning.......
 
